@@ -122,8 +122,8 @@
     @media screen and (orientation: portrait), screen and (max-width: 320px) {
 
 	div {
-		margin-left: 0px;
-		margin-right: 0px;
+		margin-left: 3px;
+		margin-right: 3px;
 	}
 
 }
