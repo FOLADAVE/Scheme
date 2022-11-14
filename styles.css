@@ -88,6 +88,7 @@
   }
 #image-fit {
 border-radius: 6px;
+	left: 4px;
 }
   hr {
     margin: 1.5rem 0;
