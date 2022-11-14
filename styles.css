@@ -37,7 +37,7 @@
     font-size: 1.8rem;
   letter-spacing: 0.6px;
   text-align: justify;
-	  position: absolute;
+	  position: relative;
   }
   .hero {
     grid-column: 1 / -1;
