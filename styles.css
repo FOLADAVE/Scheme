@@ -87,9 +87,7 @@
   
   }
 #image-fit {
-
-  width: 90%;
-	height: 90%;
+border-radius: 6px;
 }
   hr {
     margin: 1.5rem 0;
