@@ -38,6 +38,8 @@
   letter-spacing: 0.6px;
   text-align: justify;
 	  position: relative;
+	  top: 15px;
+	  left: 12px;
   }
   .hero {
     grid-column: 1 / -1;
