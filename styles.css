@@ -87,10 +87,8 @@
   
   }
 #image-fit {
-display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+
+  width: 90%;
 	border-radius: 8px;
 }
   hr {
